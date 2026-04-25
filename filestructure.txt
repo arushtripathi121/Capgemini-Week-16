@@ -1,0 +1,18 @@
+|-- .github
+    |-- workflows
+        |-- playwright.yml
+|-- .gitignore
+|-- Excel Sheet
+    |-- products.xlsx
+|-- package-lock.json
+|-- package.json
+|-- playwright-report
+    |-- index.html
+|-- playwright.config.js
+|-- screenshots
+    |-- screenshot.png
+|-- test-results
+    |-- .last-run.json
+|-- tests
+    |-- example.spec.js
+    |-- script.spec.js
